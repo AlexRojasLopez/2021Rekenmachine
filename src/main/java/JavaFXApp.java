@@ -46,6 +46,7 @@ public class JavaFXApp extends Application {
         int result;
         int number1 = getNumberFromTextField (txtNumber1);
         int number2 = getNumberFromTextField (txtNumber2);
+        //ass
 
         switch (operator) {
             case PLUS:
